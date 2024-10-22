@@ -1,0 +1,20 @@
+Pregunta 1
+¿Cuál es la diferencia entre el algoritmo de búsqueda lineal y búsqueda por
+interpolación?
+    La busqueda lineal recorre la estructura de datis entera hastas encontrar el valor que se necesita mientras que la busqueda por interpolacion 
+    busca ejecutar un procedimiento similar a la busqueda binaria, para valores uniformemente distribuidos. Esta se basa en estimar la posicion del valor deseado y puede 
+    localizarlos mas rapido que la busqueda binaria si la estimacion es correcta.
+
+Pregunta 2
+Suponga que se tiene que buscar un elemento en una lista desordenada, pero se
+desea optimizar el tiempo de búsqueda por sobre cualquier otra métrica ¿Cómo
+se podría hacer eso?
+    Si la lista esta desordenada, la mejor opcion es usar busqueda secuencial, ya que de otra forma, se tendria que ordenar la lista para aplicar busqueda binaria
+    por interpolacion, o algun otro metodo. 
+
+Pregunta 3
+Suponga que se tiene que buscar un elemento en una lista desordenada, pero se
+desea optimizar el tiempo de búsqueda por sobre cualquier otra métrica ¿Cómo
+se podría hacer eso?
+    Los algoritmos de busqueda son importantes en base de datos, motores de busqueda, entre otros. Ya que estas herramientas buscan velocidad y eficiencia, los algoritmos de busqueda
+    son puntos claves para generar soluciones a una busqueda. 
