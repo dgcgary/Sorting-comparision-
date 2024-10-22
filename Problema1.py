@@ -1,3 +1,6 @@
+#David Garcia Cruz - 2024115575
+#Rodrigo Arce Bastos - 2024115582
+
 import random
 import time
 import csv  
